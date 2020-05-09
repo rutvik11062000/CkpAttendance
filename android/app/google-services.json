@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217275112461",
+    "firebase_url": "https://ckpattendance.firebaseio.com",
+    "project_id": "ckpattendance",
+    "storage_bucket": "ckpattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217275112461:android:4ac4e437a5a4a01477c944",
+        "android_client_info": {
+          "package_name": "com.example.ckpattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217275112461-40g1qspm14jp70vs3fld2n498rbokjfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ckpattendance",
+            "certificate_hash": "948f1af814718f7e9acf48c18fcb7cd8a9153c9e"
+          }
+        },
+        {
+          "client_id": "217275112461-lctopd0b43v8jb52qlpj97ur08esiiug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprqtx-ToEA9K7QzEpXel4n8LcMh4nFKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217275112461-lctopd0b43v8jb52qlpj97ur08esiiug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
